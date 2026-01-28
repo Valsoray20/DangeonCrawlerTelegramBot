@@ -1,0 +1,2 @@
+session_id,user_id,start_time,end_time,duration_seconds,steps,rooms_visited,dragon_found,gold_earned,died,reason
+6617937376_20260127210802,6617937376,2026-01-27T21:08:02.265757,2026-01-28T13:18:29.600263,58227,34,7,True,35,False,
